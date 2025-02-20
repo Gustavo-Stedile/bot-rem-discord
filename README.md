@@ -1,2 +1,2 @@
 # bot-rem-discord
-bot pro discord.
+discord bot using Python
